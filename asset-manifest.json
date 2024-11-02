@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bilal7077/Portfolio.git/static/css/main.6ad23e42.css",
-    "main.js": "/bilal7077/Portfolio.git/static/js/main.54860e86.js",
-    "static/js/453.56f46472.chunk.js": "/bilal7077/Portfolio.git/static/js/453.56f46472.chunk.js",
-    "static/media/output-onlinegiftools.gif": "/bilal7077/Portfolio.git/static/media/output-onlinegiftools.f4de75e55410123bdeca.gif",
-    "static/media/Contact (2).png": "/bilal7077/Portfolio.git/static/media/Contact (2).1bd59c5d4c594c3e0d3e.png",
-    "static/media/MyImage-removebg-preview.png": "/bilal7077/Portfolio.git/static/media/MyImage-removebg-preview.f452de8661764ca2c2bc.png",
-    "index.html": "/bilal7077/Portfolio.git/index.html",
-    "main.6ad23e42.css.map": "/bilal7077/Portfolio.git/static/css/main.6ad23e42.css.map",
-    "main.54860e86.js.map": "/bilal7077/Portfolio.git/static/js/main.54860e86.js.map",
-    "453.56f46472.chunk.js.map": "/bilal7077/Portfolio.git/static/js/453.56f46472.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.6ad23e42.css",
+    "main.js": "/Portfolio/static/js/main.164e1d52.js",
+    "static/js/453.56f46472.chunk.js": "/Portfolio/static/js/453.56f46472.chunk.js",
+    "static/media/output-onlinegiftools.gif": "/Portfolio/static/media/output-onlinegiftools.f4de75e55410123bdeca.gif",
+    "static/media/Contact (2).png": "/Portfolio/static/media/Contact (2).1bd59c5d4c594c3e0d3e.png",
+    "static/media/MyImage-removebg-preview.png": "/Portfolio/static/media/MyImage-removebg-preview.f452de8661764ca2c2bc.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6ad23e42.css.map": "/Portfolio/static/css/main.6ad23e42.css.map",
+    "main.164e1d52.js.map": "/Portfolio/static/js/main.164e1d52.js.map",
+    "453.56f46472.chunk.js.map": "/Portfolio/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ad23e42.css",
-    "static/js/main.54860e86.js"
+    "static/js/main.164e1d52.js"
   ]
 }
