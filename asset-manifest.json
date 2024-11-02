@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6ad23e42.css",
-    "main.js": "/Portfolio/static/js/main.164e1d52.js",
+    "main.css": "/Portfolio/static/css/main.ac035a68.css",
+    "main.js": "/Portfolio/static/js/main.90e5e3e4.js",
     "static/js/453.56f46472.chunk.js": "/Portfolio/static/js/453.56f46472.chunk.js",
     "static/media/output-onlinegiftools.gif": "/Portfolio/static/media/output-onlinegiftools.f4de75e55410123bdeca.gif",
     "static/media/Contact (2).png": "/Portfolio/static/media/Contact (2).1bd59c5d4c594c3e0d3e.png",
     "static/media/MyImage-removebg-preview.png": "/Portfolio/static/media/MyImage-removebg-preview.f452de8661764ca2c2bc.png",
     "index.html": "/Portfolio/index.html",
-    "main.6ad23e42.css.map": "/Portfolio/static/css/main.6ad23e42.css.map",
-    "main.164e1d52.js.map": "/Portfolio/static/js/main.164e1d52.js.map",
+    "main.ac035a68.css.map": "/Portfolio/static/css/main.ac035a68.css.map",
+    "main.90e5e3e4.js.map": "/Portfolio/static/js/main.90e5e3e4.js.map",
     "453.56f46472.chunk.js.map": "/Portfolio/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ad23e42.css",
-    "static/js/main.164e1d52.js"
+    "static/css/main.ac035a68.css",
+    "static/js/main.90e5e3e4.js"
   ]
 }
